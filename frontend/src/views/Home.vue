@@ -7,8 +7,8 @@
         <div id="top"></div>
         <div id="bottom"></div>
         <b-navbar-item id="fontnavbar" class="title is-2">
-          Milligram
-        </b-navbar-item>
+          happy time
+        </b-navbar-item color:blue>
       </template>
     </b-navbar>
     <div class="container">
